@@ -1,6 +1,7 @@
 # My Portfolio 
 My personal website that showcase my skills,my projects and little about me. It is built using HTML,CSS and JavaScript.
 
+Use laptop for better experience.
 link- https://portfolio-kashish.vercel.app/
 
 **For security error- You can use incognito window**
